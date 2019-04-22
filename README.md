@@ -6,4 +6,4 @@ to detect category of cloth and find similar cloths
 
 ## Similar Cloth Recommendation
 ![img](https://raw.githubusercontent.com/swapme/Fashion-Recommender/master/img/ppt_1.png)
-Left most image is query and others on right are recommendations
+<br>    Left most image is query and others on right are recommendations
